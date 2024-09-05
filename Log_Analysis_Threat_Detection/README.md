@@ -1,4 +1,4 @@
-###Pandas & Numpy:
+## Pandas & Numpy:
 IT network systems generate massive amounts of logs (e.g., firewall logs, IDS/IPS logs). By using Pandas, you can load, clean, and analyze this log data.
 Numpy can be used for high-performance computation, such as calculating statistical properties like the mean, variance, and deviation of network traffic.
 This helps in identifying patterns or anomalies (e.g., unusual spikes in traffic, unauthorized access attempts) in a systematic and scalable way.
