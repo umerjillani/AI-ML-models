@@ -1,6 +1,3 @@
-To showcase your work on network automation and AI/ML in a GitLab repository, you can structure it in a way that highlights your code, design, and implementation. Here's how to approach setting up your GitLab repository and writing a comprehensive `README.md`:
-
-### Steps to Create the GitLab Repository:
 
 1. **Create a New Repository**:
    - Go to your GitLab account and create a new repository. Name it something descriptive like `network-ai-automation` or `ml-network-analysis`.
