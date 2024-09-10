@@ -168,7 +168,7 @@ network-capacity-planning/
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/network-capacity-planning.git
+git clone https://github.com/umerjillani/network-capacity-planning.git
 cd network-capacity-planning
 ```
 
