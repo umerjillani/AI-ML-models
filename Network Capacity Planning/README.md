@@ -1,7 +1,3 @@
-To create a GitHub repository for **Use Case 8: Network Capacity Planning** using AI/ML, I'll provide the structure, code, and detailed `README.md` for this specific use case. You can follow these steps to set up your GitHub repository and showcase your project.
-
-### Steps to Create GitHub Repo
-
 1. **Create a New GitHub Repository**:
    - Go to your GitHub account and create a new repository named something like `network-capacity-planning`.
 
